@@ -148,7 +148,7 @@ npm run dev
 - **[Vite Docs](https://vitejs.dev)** - Fast build tool guide
 
 ### 🎮 Interactive Playgrounds (Try Tailwind Live!)
-- **[Tailwind Sandbox](https://tailwind-sandbox.vercel.app/)** - Official sandbox
+- **[Tailwind Sandbox](https://tailwindsandbox.vercel.app/)** - Official sandbox
 - **[Tailwind Play](https://play.tailwindcss.com)** - Quick experiments
 - **[CodePen](https://codepen.io)** - Create and share examples
 - **[JSFiddle](https://jsfiddle.net)** - Test HTML/CSS/JS online
